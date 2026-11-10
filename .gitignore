@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.gpkg
+salidas/
+# Los estudios de clientes viven fuera del repositorio (..\estudios\) y nunca se suben.
+estudios/
